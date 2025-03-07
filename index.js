@@ -1,1 +1,1 @@
-consolo.log()
+consolo.log("oi")
